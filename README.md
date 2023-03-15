@@ -1,2 +1,2 @@
 # Laboratornay-rabota-1
-ИТС-б-о-22-1, Арзютов Иван Владиславович
+ITS-b-o-22-1, Arzyutov Ivan
